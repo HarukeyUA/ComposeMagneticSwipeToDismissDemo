@@ -62,8 +62,11 @@ or
 [Try it out yourself with the Web Demo](https://harukeyua.github.io/ComposeMagneticSwipeToDismiss/)
 
 
+https://github.com/user-attachments/assets/199234d8-facd-4e19-879a-a7e42eefadf9
+
+
 ```
-Copyright 2025 HarukeyUA
+   Copyright 2025 HarukeyUA
 
    Licensed under the Apache License, Version 2.0 (the "License");
    you may not use this file except in compliance with the License.
