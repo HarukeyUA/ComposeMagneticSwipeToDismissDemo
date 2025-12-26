@@ -59,7 +59,7 @@ or
 
 ## Demo
 
-[Try it out yourself with the Web Demo](https://harukeyua.github.io/ComposeMagneticSwipeToDismiss/)
+[Try it out yourself with the Web Demo](https://harukeyua.github.io/ComposeMagneticSwipeToDismissDemo/)
 
 
 https://github.com/user-attachments/assets/199234d8-facd-4e19-879a-a7e42eefadf9
